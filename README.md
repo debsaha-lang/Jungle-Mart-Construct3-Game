@@ -121,3 +121,8 @@ Academic Session: 2024–2025
 * Event-sheet implementation screenshots
 * Animation editor screenshots
 * Project documentation
+
+## Google Play Store
+
+Game Link:
+https://play.google.com/store/apps/details?id=com.jungle.mart.game&hl=en_IN
